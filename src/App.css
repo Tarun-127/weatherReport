@@ -1,0 +1,36 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  background-color: rgba(19, 174, 209, 0.063);
+}
+
+
+
+
+.card{
+  
+  max-width: 50%;
+  padding: 70px;
+}
+input[type='submit']{
+  background-color:rgb(70, 182, 122) ;
+  border-radius: 3px;
+  padding: 5px;
+
+}
+
+input[type='text']{
+  background-color: aliceblue;
+  border-radius: 3px;
+  padding: 5px;
+}
+.card-title{
+  color:rgb(224, 228, 20);
+  text-shadow: 8px;
+  size: 2px;
+}
+.card-body{
+background-color: rgb(75, 165, 172);
+ padding: 20px;
+  
+}
